@@ -3,8 +3,8 @@ import shutil
 import time
 
 # Folder paths
-download_folder = 'C:\\Users\\vedgd\\Downloads'
-main_folder = 'C:\\Users\\vedgd\\OneDrive\\Public\\Pictures\\mainfolder'
+download_folder = 'C:\path\to\your\folder'
+main_folder = 'C:\path\to\your\folder'
 
 # Function to create folder if it doesn't exist
 def create_folder(folder_path):
